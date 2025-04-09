@@ -1,0 +1,110 @@
+@font-face {
+    font-family: "flaticon_website-collection-final";
+    src: url("./flaticon_website-collection-final.ttf?a89e3805cddf5dea3fbfc7277ae2c648") format("truetype"),
+url("./flaticon_website-collection-final.woff?a89e3805cddf5dea3fbfc7277ae2c648") format("woff"),
+url("./flaticon_website-collection-final.woff2?a89e3805cddf5dea3fbfc7277ae2c648") format("woff2"),
+url("./flaticon_website-collection-final.eot?a89e3805cddf5dea3fbfc7277ae2c648#iefix") format("embedded-opentype"),
+url("./flaticon_website-collection-final.svg?a89e3805cddf5dea3fbfc7277ae2c648#flaticon_website-collection-final") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_website-collection-final !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-phone-call:before {
+    content: "\f101";
+}
+.flaticon-calendar:before {
+    content: "\f102";
+}
+.flaticon-family:before {
+    content: "\f103";
+}
+.flaticon-google:before {
+    content: "\f104";
+}
+.flaticon-whatsapp:before {
+    content: "\f105";
+}
+.flaticon-facebook:before {
+    content: "\f106";
+}
+.flaticon-instagram:before {
+    content: "\f107";
+}
+.flaticon-youtube:before {
+    content: "\f108";
+}
+.flaticon-pin:before {
+    content: "\f109";
+}
+.flaticon-arrow-up:before {
+    content: "\f10a";
+}
+.flaticon-menu:before {
+    content: "\f10b";
+}
+.flaticon-view:before {
+    content: "\f10c";
+}
+.flaticon-surgery:before {
+    content: "\f10d";
+}
+.flaticon-paper:before {
+    content: "\f10e";
+}
+.flaticon-heart:before {
+    content: "\f10f";
+}
+.flaticon-heart-rate:before {
+    content: "\f110";
+}
+.flaticon-intestine:before {
+    content: "\f111";
+}
+.flaticon-twitter:before {
+    content: "\f112";
+}
+.flaticon-brain:before {
+    content: "\f113";
+}
+.flaticon-orthopedics:before {
+    content: "\f114";
+}
+.flaticon-email:before {
+    content: "\f115";
+}
+.flaticon-beauty-treatment:before {
+    content: "\f116";
+}
+.flaticon-dermis:before {
+    content: "\f117";
+}
+.flaticon-conversation:before {
+    content: "\f118";
+}
+.flaticon-doctor:before {
+    content: "\f119";
+}
+.flaticon-pediatrics:before {
+    content: "\f11a";
+}
+.flaticon-rank:before {
+    content: "\f11b";
+}
+.flaticon-doctor-1:before {
+    content: "\f11c";
+}
+.flaticon-love:before {
+    content: "\f11d";
+}
+.flaticon-brain-1:before {
+    content: "\f11e";
+}

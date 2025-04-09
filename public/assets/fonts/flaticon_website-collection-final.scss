@@ -1,0 +1,145 @@
+$flaticon_website-collection-final-font: "flaticon_website-collection-final";
+
+@font-face {
+    font-family: $flaticon_website-collection-final-font;
+    src: url("./flaticon_website-collection-final.ttf?a89e3805cddf5dea3fbfc7277ae2c648") format("truetype"),
+url("./flaticon_website-collection-final.woff?a89e3805cddf5dea3fbfc7277ae2c648") format("woff"),
+url("./flaticon_website-collection-final.woff2?a89e3805cddf5dea3fbfc7277ae2c648") format("woff2"),
+url("./flaticon_website-collection-final.eot?a89e3805cddf5dea3fbfc7277ae2c648#iefix") format("embedded-opentype"),
+url("./flaticon_website-collection-final.svg?a89e3805cddf5dea3fbfc7277ae2c648#flaticon_website-collection-final") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_website-collection-final !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon_website-collection-final-map: (
+    "phone-call": "\f101",
+    "calendar": "\f102",
+    "family": "\f103",
+    "google": "\f104",
+    "whatsapp": "\f105",
+    "facebook": "\f106",
+    "instagram": "\f107",
+    "youtube": "\f108",
+    "pin": "\f109",
+    "arrow-up": "\f10a",
+    "menu": "\f10b",
+    "view": "\f10c",
+    "surgery": "\f10d",
+    "paper": "\f10e",
+    "heart": "\f10f",
+    "heart-rate": "\f110",
+    "intestine": "\f111",
+    "twitter": "\f112",
+    "brain": "\f113",
+    "orthopedics": "\f114",
+    "email": "\f115",
+    "beauty-treatment": "\f116",
+    "dermis": "\f117",
+    "conversation": "\f118",
+    "doctor": "\f119",
+    "pediatrics": "\f11a",
+    "rank": "\f11b",
+    "doctor-1": "\f11c",
+    "love": "\f11d",
+    "brain-1": "\f11e",
+);
+
+.flaticon-phone-call:before {
+    content: map-get($flaticon_website-collection-final-map, "phone-call");
+}
+.flaticon-calendar:before {
+    content: map-get($flaticon_website-collection-final-map, "calendar");
+}
+.flaticon-family:before {
+    content: map-get($flaticon_website-collection-final-map, "family");
+}
+.flaticon-google:before {
+    content: map-get($flaticon_website-collection-final-map, "google");
+}
+.flaticon-whatsapp:before {
+    content: map-get($flaticon_website-collection-final-map, "whatsapp");
+}
+.flaticon-facebook:before {
+    content: map-get($flaticon_website-collection-final-map, "facebook");
+}
+.flaticon-instagram:before {
+    content: map-get($flaticon_website-collection-final-map, "instagram");
+}
+.flaticon-youtube:before {
+    content: map-get($flaticon_website-collection-final-map, "youtube");
+}
+.flaticon-pin:before {
+    content: map-get($flaticon_website-collection-final-map, "pin");
+}
+.flaticon-arrow-up:before {
+    content: map-get($flaticon_website-collection-final-map, "arrow-up");
+}
+.flaticon-menu:before {
+    content: map-get($flaticon_website-collection-final-map, "menu");
+}
+.flaticon-view:before {
+    content: map-get($flaticon_website-collection-final-map, "view");
+}
+.flaticon-surgery:before {
+    content: map-get($flaticon_website-collection-final-map, "surgery");
+}
+.flaticon-paper:before {
+    content: map-get($flaticon_website-collection-final-map, "paper");
+}
+.flaticon-heart:before {
+    content: map-get($flaticon_website-collection-final-map, "heart");
+}
+.flaticon-heart-rate:before {
+    content: map-get($flaticon_website-collection-final-map, "heart-rate");
+}
+.flaticon-intestine:before {
+    content: map-get($flaticon_website-collection-final-map, "intestine");
+}
+.flaticon-twitter:before {
+    content: map-get($flaticon_website-collection-final-map, "twitter");
+}
+.flaticon-brain:before {
+    content: map-get($flaticon_website-collection-final-map, "brain");
+}
+.flaticon-orthopedics:before {
+    content: map-get($flaticon_website-collection-final-map, "orthopedics");
+}
+.flaticon-email:before {
+    content: map-get($flaticon_website-collection-final-map, "email");
+}
+.flaticon-beauty-treatment:before {
+    content: map-get($flaticon_website-collection-final-map, "beauty-treatment");
+}
+.flaticon-dermis:before {
+    content: map-get($flaticon_website-collection-final-map, "dermis");
+}
+.flaticon-conversation:before {
+    content: map-get($flaticon_website-collection-final-map, "conversation");
+}
+.flaticon-doctor:before {
+    content: map-get($flaticon_website-collection-final-map, "doctor");
+}
+.flaticon-pediatrics:before {
+    content: map-get($flaticon_website-collection-final-map, "pediatrics");
+}
+.flaticon-rank:before {
+    content: map-get($flaticon_website-collection-final-map, "rank");
+}
+.flaticon-doctor-1:before {
+    content: map-get($flaticon_website-collection-final-map, "doctor-1");
+}
+.flaticon-love:before {
+    content: map-get($flaticon_website-collection-final-map, "love");
+}
+.flaticon-brain-1:before {
+    content: map-get($flaticon_website-collection-final-map, "brain-1");
+}
